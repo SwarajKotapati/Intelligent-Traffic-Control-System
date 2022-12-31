@@ -20,10 +20,5 @@ To sum up the algorithm :
 
 ![image](https://user-images.githubusercontent.com/70504997/210133582-4d48e869-c4fd-4d92-a8a1-b45c5291fbf1.png)
 
-- Functioning of vehicle count using OpenCV :
 
-
-
-
-https://user-images.githubusercontent.com/70504997/210133841-2baf8f84-0852-4569-8986-7f0e369dc811.mp4
 
