@@ -16,7 +16,7 @@ To sum up the algorithm :
 
 ![image](https://user-images.githubusercontent.com/70504997/210133506-9a97fa47-7abb-427c-bf53-888da8d92ced.png)
 
-- To detech the number of vehicles present in each lane we have used Open CV approach to count the number of vehicles entering the lane
+- To detect the number of vehicles present in each lane we have used Open CV to count the number of vehicles entering the lane, evident in the above video
 
 ![image](https://user-images.githubusercontent.com/70504997/210133582-4d48e869-c4fd-4d92-a8a1-b45c5291fbf1.png)
 
